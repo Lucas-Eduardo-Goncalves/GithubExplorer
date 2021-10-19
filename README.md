@@ -1,6 +1,6 @@
 # GitHub explorer 
 
-[Link para a aplicação](https://confident-austin-32b900.netlify.app/);
+[Link para a aplicação](https://lucasgoncalves-githubexplorer.netlify.app/);
 
 ## Tecnologias utilizadas
 - Typescript
